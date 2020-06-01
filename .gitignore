@@ -7,4 +7,5 @@ output
 backup
 weights/*.weights
 __pycache__
-
+weights/pre
+weights/yolov4.conv.137
